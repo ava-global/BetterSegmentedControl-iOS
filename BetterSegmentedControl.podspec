@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "BetterSegmentedControl"
-s.version          = "2.0.1"
+s.version          = "2.0.2"
 s.swift_version    = "5.1"
 s.summary          = "An easy to use, customizable replacement for UISegmentedControl & UISwitch."
 s.description      = <<-DESC
